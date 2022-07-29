@@ -8,7 +8,7 @@
 
 @if (ViewBag.Stylists.Count == 0)
 {
-  <h3>Please add a stylist before adding a client</h3>
+  <h3><span class="warning">WARNING: </span>Please add a stylist before adding a client</h3>
 }
 
 @using (Html.BeginForm())

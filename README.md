@@ -89,7 +89,7 @@ Run ```$ dotnet run``` in the console
 
 ## Known Bugs
 
-* _No known issues_
+* _No known bugs_
 
 ## License
 

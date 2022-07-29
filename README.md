@@ -86,11 +86,7 @@ Navigate to:
 Run ```$ dotnet restore``` in the console.<br>
 Run ```$ dotnet run``` in the console
 </details>
-<br>
 
-This program was built using *`Microsoft .NET SDK 6.0.302`*, and may not be compatible with other versions. Your milage may vary.
-
----
 ## Known Bugs
 
 * _No known issues_

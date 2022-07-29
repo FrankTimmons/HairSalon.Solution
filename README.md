@@ -97,6 +97,6 @@ This program was built using *`Microsoft .NET SDK 6.0.302`*, and may not be comp
 
 ## License
 
-_[MIT License](license)_
+[MIT License](/LICENSE)
 
 Copyright (c) 2022 Frank Timmons
